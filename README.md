@@ -1,0 +1,2 @@
+libwhiteboard-qt4
+=================
